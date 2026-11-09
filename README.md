@@ -36,7 +36,11 @@ The goal is to create an interactive dashboard that helps users understand sales
 
 ## Dataset
 
-The dashboard uses an e-commerce dataset containing 5,000 records with information about orders, customers, products, sales, and customer ratings.
+The dashboard uses an e-commerce dataset containing
+5,000 records with information about orders, customers,
+products, sales, and customer ratings.
+
+[Download E-Commerce Sales Dataset](ecommerce_sales_data.csv)
 
 ## Project Purpose
 
