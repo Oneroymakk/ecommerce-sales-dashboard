@@ -1,6 +1,5 @@
 # E-Commerce Sales Performance Dashboard
-![E-Commerce Sales Dashboard](E-Commerce%20Sales%20Performance%20Dashboard.png)
-
+![E-Commerce Sales Dashboard](E-Commerce%20Sales%20Performance%20Dashboard%20.png)
 ## Project Overview
 
 This project analyzes e-commerce sales data using Tableau to explore revenue performance, customer ratings, product categories, and payment methods.
